@@ -6,8 +6,8 @@ let image4 = fs.readFileSync('./media/logo3.jpg')
 let image5 = fs.readFileSync('./media/logo.jpg')
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/DYbwxUvMEzTEsOuYQnBDm2']
-global.owner = ['6289637133848'] // Letakan nomor kamu disini
-global.kontak = ['6289637133848'] //entah lahðŸ—¿
+global.owner = ['6281291155341'] // Letakan nomor kamu disini
+global.kontak = ['628191155341'] //entah lahðŸ—¿
 global.mods = ['17608914335', '6283829756773', '6285755950256', '6281222314374', '6285814839139'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -45,8 +45,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 //*****************STICKER WM*********************
-global.packname = 'Sticker'
-global.author = 'By Wabot'
+global.packname = 'Ryuuzxy'
+global.author = 'By 087857125886'
 //*****************BAGIAN IMAGE*********************
 global.image = image1
 global.image2 = image2
@@ -54,7 +54,7 @@ global.image3 = image3
 global.image4 = image4
 global.image5 = image5
 //*****************BAGIAN GLOBAL CHAT*********************
-global.wm = '©Mythia Batford'
+global.wm = '©Ryuuzxy'
 global.rpg = 'Fitur Rpg Tidak Aktif\nKetik *!on* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/DYbwxUvMEzTEsOuYQnBDm2'
 global.nsfw = 'Fitur NSFW Tidak Aktif\nKetik *!on* *nsfw* untuk menggunakan fitur ini!'
 global.eror = 'Error 404'
